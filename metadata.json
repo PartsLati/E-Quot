@@ -1,0 +1,8 @@
+{
+  "name": "E-Quotation Generator - Suku Cadang",
+  "description": "Generator E-Quotation resmi suku cadang dengan fitur copy-paste parser kolom otomatis dan export PDF sesuai format standar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
